@@ -1,6 +1,4 @@
-Este é um projeto de testes para o estudo do NextJs com conexão ao MySQL realizando um simples crud
-
-Abaixo, um tutorial de como iniciar o projeto
+Este é um projeto de testes para o estudo do NextJs com conexão ao MySQL realizando um simples crud.
 
 ## Pacotes instalados
 
@@ -19,6 +17,8 @@ Ao fazer esta integração, é possivel acompanhar todo o processo de deploy pel
 
 ****Lembrando que o acesso é gratuito e não é necessário colocar dados do cartão.
 
-#### ESTE É UM SIMPLES PROJETO PARA TESTES E APRENDIZADO, todo o conteúdo foi acompanhado do canal Dmytro Danylov no Youtube: https://www.youtube.com/channel/UCtcKIr8240YsxtdcKFTiz6Q
+## Motivação 
+
+ESTE É UM SIMPLES PROJETO PARA TESTES E APRENDIZADO, todo o conteúdo foi acompanhado do canal Dmytro Danylov no Youtube: https://www.youtube.com/channel/UCtcKIr8240YsxtdcKFTiz6Q
 
 - Aula: https://youtu.be/q-sYloF3xKM?list=PLuAI7cfU_zicYyyFPRwMtb2HVEb2gi_8v
