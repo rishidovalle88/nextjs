@@ -1,30 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Este é um projeto de testes para o estudo do NextJs com conexão ao MySQL realizando um simples crud.
 
-## Getting Started
+## Pacotes instalados
 
-First, run the development server:
+- yarn add react-hook-form
+- yarn add sass
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Docker | Imagem MySQL
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Feito todo o processo de instalação do Docker no Windows: https://www.docker.com/products/docker-desktop
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- Configurado imagem do MySql de acordo com tutorial contido no Docker Hub: https://hub.docker.com/_/mysql
 
-## Learn More
+## Feito deploy na Vercel integrado ao GitHub
 
-To learn more about Next.js, take a look at the following resources:
+Ao fazer esta integração, é possivel acompanhar todo o processo de deploy pela página de Dashboard disponivel na sua conta.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+****Lembrando que o acesso é gratuito e não é necessário colocar dados do cartão.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Motivação 
 
-## Deploy on Vercel
+ESTE É UM SIMPLES PROJETO PARA TESTES E APRENDIZADO, todo o conteúdo foi acompanhado do canal Dmytro Danylov no Youtube: https://www.youtube.com/channel/UCtcKIr8240YsxtdcKFTiz6Q
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Aula: https://youtu.be/q-sYloF3xKM?list=PLuAI7cfU_zicYyyFPRwMtb2HVEb2gi_8v
